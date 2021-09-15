@@ -3,7 +3,7 @@
     <property name="created">2021-09-13T21:23:46</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2021-09-14T10:41:06</property>
+    <property name="modified">2021-09-14T21:54:22</property>
     <property name="originalScheme">_@user_VibrantInk</property>
   </metaInfo>
   <colors>
@@ -1001,12 +1001,12 @@
     </option>
     <option name="OC.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="ff0099" />
+        <option name="FOREGROUND" value="ff4d00" />
       </value>
     </option>
     <option name="OC.FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="ff0000" />
+        <option name="FOREGROUND" value="fa00ff" />
       </value>
     </option>
     <option name="OC.GLOBAL_VARIABLE">
@@ -1045,7 +1045,7 @@
     </option>
     <option name="OC.TYPEDEF">
       <value>
-        <option name="FOREGROUND" value="50861a" />
+        <option name="FOREGROUND" value="43ff00" />
       </value>
     </option>
     <option name="PHP_BAD_CHARACTER">
