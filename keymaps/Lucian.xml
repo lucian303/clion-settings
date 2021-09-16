@@ -135,6 +135,10 @@
     <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="SwitchHeaderSource" />
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="meta f8" />
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift meta k" />
     <keyboard-shortcut first-keystroke="meta alt p" />
