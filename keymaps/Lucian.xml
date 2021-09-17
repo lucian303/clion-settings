@@ -145,6 +145,10 @@
     <keyboard-shortcut first-keystroke="f8" />
     <keyboard-shortcut first-keystroke="f9" />
   </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="meta f2" />
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
   <action id="SwitchHeaderSource" />
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="meta f8" />
