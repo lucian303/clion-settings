@@ -1,4 +1,8 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="18" />
     <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
@@ -9,5 +13,19 @@
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
+  </component>
+  <component name="OCCodeFoldingSettings">
+    <option name="collapseConditionallyNotCompiled" value="false" />
+    <option name="collapseNewLineBeforeLBrace" value="false" />
+    <option name="COLLAPSE_CONDITIONALLY_NOT_COMPILED" value="false" />
+    <option name="COLLAPSE_NEW_LINE_BEFORE_LBRACE" value="false" />
+  </component>
+  <component name="SqlFoldingSettings">
+    <option name="COLLAPSE_LONG_NUMBERS" value="false" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+    <option name="COLLAPSE_ENTITIES" value="false" />
+    <option name="COLLAPSE_DATA_URI" value="false" />
   </component>
 </application>
