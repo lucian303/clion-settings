@@ -12,6 +12,7 @@
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="ChangesView.ShelveSilently" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -91,6 +92,8 @@
   <action id="Jdbc.OpenEditor.Data">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="MethodHierarchy" />
+  <action id="MethodHierarchy.BaseOnThisMethod" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NavBar-navigate">
@@ -166,6 +169,9 @@
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift meta k" />
     <keyboard-shortcut first-keystroke="meta alt p" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
   <action id="VcsShowNextChangeMarker">
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
