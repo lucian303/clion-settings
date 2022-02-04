@@ -3,7 +3,7 @@
     <property name="created">2022-02-03T23:53:36</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2022-02-03T23:57:48</property>
+    <property name="modified">2022-02-04T00:09:54</property>
     <property name="originalScheme">Lucian 2021</property>
   </metaInfo>
   <colors>
@@ -1001,12 +1001,12 @@
     </option>
     <option name="OC.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="ff4d00" />
+        <option name="FOREGROUND" value="f6ff00" />
       </value>
     </option>
     <option name="OC.FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="fa00ff" />
+        <option name="FOREGROUND" value="ff0000" />
       </value>
     </option>
     <option name="OC.GLOBAL_VARIABLE">
@@ -1017,12 +1017,17 @@
     </option>
     <option name="OC.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ff0000" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="OC.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="9d9d9d" />
+      </value>
+    </option>
+    <option name="OC.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
       </value>
     </option>
     <option name="OC.MACRONAME">
@@ -1035,17 +1040,17 @@
     <option name="OC.METHOD_DECLARATION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="OC.NAMESPACE_LIKE">
       <value>
-        <option name="FOREGROUND" value="f7ff" />
+        <option name="FOREGROUND" value="3a86f8" />
       </value>
     </option>
     <option name="OC.STRUCT_FIELD">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="e838d1" />
       </value>
     </option>
     <option name="OC.STRUCT_LIKE">
       <value>
-        <option name="FOREGROUND" value="f7ff00" />
+        <option name="FOREGROUND" value="37ff00" />
       </value>
     </option>
     <option name="OC.TYPEDEF">
