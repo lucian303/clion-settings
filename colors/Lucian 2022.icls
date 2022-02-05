@@ -3,7 +3,7 @@
     <property name="created">2022-02-03T23:53:36</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2022-02-04T00:09:54</property>
+    <property name="modified">2022-02-04T22:52:24</property>
     <property name="originalScheme">Lucian 2021</property>
   </metaInfo>
   <colors>
@@ -1017,7 +1017,7 @@
     </option>
     <option name="OC.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="ff0000" />
       </value>
     </option>
     <option name="OC.LINE_COMMENT">
