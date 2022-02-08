@@ -3,7 +3,7 @@
     <property name="created">2022-02-03T23:53:36</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2022-02-05T00:21:57</property>
+    <property name="modified">2022-02-07T16:44:17</property>
     <property name="originalScheme">Lucian 2021</property>
   </metaInfo>
   <colors>
@@ -1006,7 +1006,7 @@
     </option>
     <option name="OC.FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="ff0000" />
+        <option name="FOREGROUND" value="ff4d00" />
       </value>
     </option>
     <option name="OC.GLOBAL_VARIABLE">
