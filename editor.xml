@@ -14,6 +14,13 @@
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledLanguages">
+      <set>
+        <option value="ObjectiveC" />
+      </set>
+    </option>
+  </component>
   <component name="OCCodeFoldingSettings">
     <option name="collapseConditionallyNotCompiled" value="false" />
     <option name="collapseNewLineBeforeLBrace" value="false" />
