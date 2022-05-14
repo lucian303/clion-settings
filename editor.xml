@@ -3,11 +3,6 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
-    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
-    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
-  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
@@ -26,9 +21,6 @@
     <option name="collapseNewLineBeforeLBrace" value="false" />
     <option name="COLLAPSE_CONDITIONALLY_NOT_COMPILED" value="false" />
     <option name="COLLAPSE_NEW_LINE_BEFORE_LBRACE" value="false" />
-  </component>
-  <component name="SqlFoldingSettings">
-    <option name="COLLAPSE_LONG_NUMBERS" value="false" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
